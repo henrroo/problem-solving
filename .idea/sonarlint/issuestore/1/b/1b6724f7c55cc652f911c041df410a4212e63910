@@ -1,0 +1,5 @@
+
+E
+java:S1197	"*Move the array designators [] to the type.(¹ä£óúÿÿÿÿ
+G	java:S106"+Replace this use of System.out by a logger.(æ–ªñ8¯Õ¾ï¿1
+F	java:S106"+Replace this use of System.out by a logger.(äºƒ88¯Õ¾ï¿1
