@@ -1,0 +1,10 @@
+
+[
+java:S1854	"9Remove this useless assignment to local variable "nums1".(³νϋÿÿÿÿ8ο³πΏ1
+U
+java:S1854"8Remove this useless assignment to local variable "nums".(¦ιο8Ϋ–πΏ1
+F
+java:S1481")Remove this unused "nums" local variable.(¦ιο8ά–πΏ1
+L
+java:S1481	"*Remove this unused "nums1" local variable.(³νϋÿÿÿÿ8‚ο³πΏ1
+L	java:S106"+Replace this use of System.out by a logger.(ϋ£όωÿÿÿÿ8ά–πΏ1

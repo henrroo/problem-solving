@@ -1,10 +1,6 @@
 
-S
-#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-]
--src/main/java/henrro/solvedproblems/Main.java,5\3\5378a501964ff719e6a307195c5a0b2de2078c90
 m
 =src/main/java/henrro/solvedproblems/codeforces/Problem1A.java,2\a\2aa9a0b0f900d90845158370fa46c361553f0941
 m
@@ -27,3 +23,5 @@ o
 ?src/main/java/henrro/solvedproblems/codeforces/Problem231A.java,2\b\2b62a1ffbeda1c4bc95da49c32ce6f245f06fefe
 o
 ?src/main/java/henrro/solvedproblems/codeforces/Problem282A.java,c\1\c1e309b03a6b1518ccf4bbf8457affb4b1ab08e6
+h
+8src/main/java/henrro/solvedproblems/leetcode/TwoSum.java,b\6\b6838185c7d2ba0b52097e27a694ff5fbb8b5bf8
