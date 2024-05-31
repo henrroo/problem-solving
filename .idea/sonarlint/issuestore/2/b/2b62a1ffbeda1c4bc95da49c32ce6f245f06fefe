@@ -1,7 +1,0 @@
-
-k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÍŽ“üÿÿÿÿ
-k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÍŽ“üÿÿÿÿ
-k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÍŽ“üÿÿÿÿ
-Y
-java:S1659	">Declare "V" and all following declarations on a separate line.(ÍÍŽ“üÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(Áß‡Ü
