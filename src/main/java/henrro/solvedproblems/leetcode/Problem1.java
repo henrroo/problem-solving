@@ -5,7 +5,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 /*
-    Problem 1 from LeetCode.
     Name: 1. Two Sum
     Link: https://leetcode.com/problems/two-sum/description/
 */

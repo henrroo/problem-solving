@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
-    Problem 1408 from LeetCode.
     Name: 1408. String Matching in an Array
     Link: https://leetcode.com/problems/string-matching-in-an-array/description/
 */

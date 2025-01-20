@@ -1,7 +1,6 @@
 package henrro.solvedproblems.leetcode;
 
 /*
-    Problem 3042 from LeetCode.
     Name: 3042. Count Prefix and Suffix Pairs I
     Link: https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/
 */
