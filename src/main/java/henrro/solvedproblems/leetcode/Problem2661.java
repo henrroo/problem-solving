@@ -21,11 +21,11 @@ public class Problem2661 {
         int numCols = mat[0].length;
 
         // Check for the earliest row to be completely painted
-        for (int row = 0; row < numRows; row++) {
+        for (int[] value : mat) {
             // Tracks the greatest index in this row
             int lastElementIndex = Integer.MIN_VALUE;
             for (int col = 0; col < numCols; col++) {
-                int indexVal = numToIndex.get(mat[row][col]);
+                int indexVal = numToIndex.get(value[col]);
                 lastElementIndex = Math.max(lastElementIndex, indexVal);
             }
             // Update result with the minimum index where this row is fully painted
@@ -35,8 +35,8 @@ public class Problem2661 {
         // Check for the earliest column to be completely painted
         for (int col = 0; col < numCols; col++) {
             int lastElementIndex = Integer.MIN_VALUE;
-            for (int row = 0; row < numRows; row++) {
-                int indexVal = numToIndex.get(mat[row][col]);
+            for (int[] ints : mat) {
+                int indexVal = numToIndex.get(ints[col]);
                 lastElementIndex = Math.max(lastElementIndex, indexVal);
             }
             // Update result with the minimum index where this column is fully painted
