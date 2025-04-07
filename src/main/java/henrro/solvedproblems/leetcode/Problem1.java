@@ -15,8 +15,19 @@ public class Problem1 {
         int[] nums1 = { 2, 5, 5, 11 };
         int[] nums2 = { 3, 2, 4 };
         int target = 6;
-        int[] result = twoSum(nums2, target);
+        int[] result = twoSumAgain(nums2, target);
         System.out.println(Arrays.toString(result));
+    }
+
+    public static int[] twoSumAgain(int[] nums, int target) {
+        for (int i = 0; i < nums.length; i++) {
+            for (int j = i + 1; j < nums.length; j++) {
+                if (nums[i] + nums[j] == target) {
+                    return new int[]{i, j};
+                }
+            }
+        }
+        return nums;
     }
 
     public static int[] twoSum(int[] nums, int target) {
