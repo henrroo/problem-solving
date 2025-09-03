@@ -1,5 +1,3 @@
-Here is a concise `README.md` you can use for this repository.
-
 # Problem Solving Repository
 
 Personal collection of self-solved programming challenges from platforms such as LeetCode, Codeforces, HackerRank, and Project Euler. Focus areas include data structures, algorithms, and problem-solving practice across various topics.
